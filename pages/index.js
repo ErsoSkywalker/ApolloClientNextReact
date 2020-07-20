@@ -3,7 +3,7 @@ export default function Index() {
   return (
     <div>
       <Layout>
-        <h1>Desde Index</h1>
+        <h1 className="text-2xl text-gray-800 font-light">Clientes</h1>
       </Layout>
     </div>
   );
